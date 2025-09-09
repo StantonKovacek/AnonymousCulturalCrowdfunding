@@ -81,7 +81,7 @@ The smart contract is deployed on a privacy-focused blockchain network and handl
 ### Live Demo
 Experience the platform: [https://anonymous-cultural-crowdfunding.vercel.app/](https://anonymous-cultural-crowdfunding.vercel.app/)
 
-### Video Demonstration
+### Video Demonstration AnonymousCulturalCrowdfunding.mp4
 Watch our demo video showcasing:
 - Creating a cultural project
 - Making anonymous contributions
@@ -90,7 +90,7 @@ Watch our demo video showcasing:
 
 ### On-Chain Transaction Examples
 
-![Transaction Screenshot](./Transaction Screenshot.png)
+![Transaction Screenshot](./AnonymousCulturalCrowdfunding.png)
 
 View recent transactions on the blockchain explorer to see:
 - Encrypted contribution events
